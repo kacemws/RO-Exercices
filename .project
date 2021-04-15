@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>EXO2-RO</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/cplex.jar</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Downloads/cplex.jar</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
